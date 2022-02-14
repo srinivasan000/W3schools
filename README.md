@@ -1,6 +1,5 @@
 # W3Schools Offline ⚡️  Update v2021.08.07
 
-<A href="https://srinivasan000.github.io/W3schools/" target="_blank">view w3school</a><br>
 ![Repo Size](https://img.shields.io/github/repo-size/ja7adr/W3Schools) ![Docker Image Size](https://img.shields.io/docker/image-size/ja7adr/w3schools?style=flat-square)
 
 ![W3schools](https://www.w3schools.com/images/w3schoolscom_gray.gif)
@@ -9,6 +8,9 @@ W3schools tutorials are available at any time within your local computer.
 
 ## ⁉️ How to run docker image ?
 
+<Br><br>
+<A href="https://srinivasan000.github.io/W3schools/" target="_blank">view w3school</a><br>
+<Br><br>
 1. First pull image to your docker images : 
   - `docker pull ja7adr/w3schools`
   - `docker pull ghcr.io/ja7ad/w3schools:latest`
